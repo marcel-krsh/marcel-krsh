@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @marcel-krsh who has over 10 years experience in web and mobile development. 
       I have been entered in blockchain world from 2017 and gained vast exeprience in this field as well.
-- 👀 I’m interested in new networks, matic, waves and solana.
-- 🌱 I’m currently learning the Rust, go and ride.
+- 👀 I’m interested in new networks, solana, near, waves and terra.
+- 🌱 I’m currently an expert with Rust, go and ride.
 - 💞️ I’m looking to collaborate on new opportunity in crypto world.
 - 📫 How to reach me ...
 
